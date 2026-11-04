@@ -62,7 +62,7 @@
 ### 📈 Contribution Graph
 
 
-<h2 align="center">📈 Contribution Activity Graph</h2>
+
 
 <p align="center">
   <img
