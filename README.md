@@ -61,9 +61,17 @@
 
 ### 📈 Contribution Graph
 
+
+<h2 align="center">📈 Contribution Activity Graph</h2>
+
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SRUJAN17-MK&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SRUJAN17-MK&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
+
 
 ### 💭 Dev Quote
 
